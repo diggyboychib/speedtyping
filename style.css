@@ -8,3 +8,12 @@ body{background-color: #F3FEB8;}
 
 textarea{padding: 2rem; width: 100%; height: 30rem;background: transparent;border: 0.2rem solid black; border-radius: 20px;outline: none;resize: none;font-size: 1.4rem;}
 textarea:focus{border-color: black;}
+
+.correct{
+    color: green;
+}
+
+.error{
+   color: red;
+   text-decoration: underline;
+}
